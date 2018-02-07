@@ -1,0 +1,15 @@
+{
+    "name": "delete-directory-recursive",
+    "version": "1.0.0",
+    "repository": "github:makcbrain/delete-directory-recursive",
+    "main": "index.js",
+    "engines": {
+        "node": ">= 8.5.0"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "fs-extra": "^5.0.0",
+        "readdir-enhanced": "^2.2.0",
+        "yargs": "^11.0.0"
+    }
+}
